@@ -1,0 +1,2 @@
+# 2022_Computer_Design_Competition
+2022中国计算机设计大赛（大数据主题赛）参赛项目
